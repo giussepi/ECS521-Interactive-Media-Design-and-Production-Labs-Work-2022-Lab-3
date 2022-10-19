@@ -58,9 +58,9 @@ Draw the image into canvas as follows;
    * width	- Optional. The width of the image to use (stretch or reduce the image)
    * height - Optional. The height of the image to use (stretch or reduce the image)
 
-   _Consider varying the position of the above to create 3 different sets of cropped image. For instance:_
+   _Consider varying the position of the above to create 3 different sets of cropped image. The crops must keep their original locations, width and height. For instance:_
 
-   <img src="imgs/crop_example.png"/>
+   <img src="imgs/q1.gif"/>
 
 2. Applying Transformation on image into canvas. **Note:** Draw the original red_panda.jpg image in canvas again.
 
